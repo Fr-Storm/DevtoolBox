@@ -2,8 +2,6 @@
 
 A local-first workspace of small developer utilities. Everything runs in the browser: no account, no backend, and no external API calls.
 
-**Tagline:** Small tools. Faster workflows.
-
 ## Key features
 
 - Eight working utilities in a single-page layout
